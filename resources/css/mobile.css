@@ -471,4 +471,50 @@ footer p{
     margin-top: 100px;
     margin-left: 40px;
 }
-    
+   
+
+/* About Us page */
+
+.about{
+    height: 500px;
+}
+
+.about .text-back{
+    margin-top: 0;
+}
+
+.about h1{
+    color: #F4F6F9;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -300px;
+}
+
+.know-us{
+    height: 400px;
+}
+
+.know-us h2{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 130px;
+    color: #1D1E1E;
+}
+
+.know-us p{
+    margin-left: 130px;
+    font-size: 18px;
+    color: #1D1E1E;
+    margin-top: 20px;
+}
+
+.know-us a{
+    left: 130px;
+    margin-top: 50px;
+    position: absolute;
+    background-color: #FCB117;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 15px 10px 15px;
+    border-radius: 40px;
+}
