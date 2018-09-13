@@ -1,0 +1,135 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px){
+    
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: @screen-sm-max) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (max-width: 1119px) {
+    .main-nav{
+        height: 70vh;
+    }
+    .main-nav .text-back{
+        font-size: 300px;
+        margin-left: 0px;
+    }
+    .main-nav img{
+        left: 100px;
+    }
+    .tag-line{
+        top: 23%;
+    }
+    .description{
+        top: 45%;
+    }
+    .main-nav ion-icon{
+        top: 55%;
+    }
+    .main-nav.number{
+        visibility: hidden;
+    }
+    .main-nav .slide{
+        visibility: hidden;
+    }
+    .main-nav .full-bar{
+        visibility: hidden;
+    }
+    .about img{
+        margin-left: -120px;
+    }
+    .about p{
+        padding-left: 20px;
+    }
+    .course .first{
+        margin-left: 5%;
+    }
+    .course .second{
+        margin-left: 6%;
+    }
+    .course .third{
+        margin-left: 6%;
+    }
+    .programs{
+        height: 500px;
+    }
+    .programs img{
+        margin-left: 90px;
+    }
+    .programs h2{
+        left: 600px;
+        margin-top: 100px;
+    }
+    .programs p{
+        left: 600px;
+    }
+    .universities h2{
+        left: 60px;
+    }
+    .universities .para{
+        left: 60px;
+        font-size: 18px;    
+    }
+    .universities .nus{
+        right: 500px;
+    }
+    .universities .ui{
+        right: 350px;
+    }
+    .universities .prasmul{
+        right: 200px;
+    }
+    .universities .itb{
+        right: 50px;
+    }
+    .universities .nus-p{
+        right: 480px;
+    }
+    .universities .ui-p{
+        right: 360px;
+    }
+    .universities .prasmul-p{
+        right: 200px;
+    }
+    .universities .itb-p{
+        right: 40px;
+    }
+    .facility img{
+        width: 50%;
+    }
+    td p{
+        padding-left: 20px;
+    }
+    .teach h2{
+        right: 50px;
+    }
+    .teach p{
+        right: 50px;
+    }
+    .teach a{
+        right: 340px;
+    }
+    .about{
+        height: 400px;
+    }
+    .about .text-back{
+        margin-top: 60px;
+        text-align: center;
+    }
+    .about h1{
+        padding-top: 40px;
+    }
+    .contact-now{
+        margin-left: 125px;
+    }
+    .social-link p{
+        padding-left: 120px;
+    }
+    .address h3{
+        margin-left: -100px;
+    }
+    
+}
